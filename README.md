@@ -154,7 +154,7 @@ O SmartWork mostra como tecnologias simples podem:
 
 **Equipe:**
 
-* Lucas Alves de Souza RM
+* Lucas Alves de Souza  RM553956
 * Kaio Vinicius Meireles Alves RM553282
 
 ---
